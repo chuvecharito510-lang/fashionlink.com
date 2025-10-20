@@ -208,8 +208,9 @@ JHOSELYN LARA HINOJOSA
 
 ## IMAGENES DEL LA PÁGINA
 ![PÁGINA](img/fashion.PNG)
-![PÁGIBA](img\fashion2.PNG)
+![PÁGIBA](img/fashion2.PNG)
 ![PÁGINA](img/fashion3.PNG)
+
 
 
 
