@@ -201,3 +201,15 @@ const whatsappNumber = '1234567890'; // CHANGE THIS: Replace with your WhatsApp 
 ## License
 
 This project is for educational purposes. Feel free to modify and use as needed.
+## AUTORAS
+
+SIRLEY CHUVE PEREZ
+JHOSELYN LARA HINOJOSA 
+
+## IMAGENES DEL LA PÁGINA
+![PÁGINA](img/fashion.PNG)
+![PÁGIBA](img\fashion2.PNG)
+![PÁGINA](img/fashion3.PNG)
+
+
+
